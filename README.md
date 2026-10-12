@@ -1,8 +1,8 @@
-# Projet Relais FPV Video-Radio  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/776024e2-1432-40de-8bd1-c0caff72386b" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/103ca738-9ef7-4062-9f4e-e25c367a501c" />
+# Projet Relais FPV Video-Radio  
 
 
 
-Ici vous trouve manuel d'utilisation et montage de composants puis le model **.stl**, le relais etait fabrique par **CPL Grib du 2REP**
+Ici vous trouve manuel d'utilisation et montage de composants puis le model **.stl**, le relais etait fabrique par **CPL Grib **
 
 
 
